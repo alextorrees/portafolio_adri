@@ -97,21 +97,21 @@ const translations = {
           role: "Creador de Contenido",
           description:
             "Varios vídeos con más de 2 millones de reproducciones cada uno, alcanzando audiencias masivas y generando alto engagement.",
-          image: "./public/images/viral-video-content-success.jpg",
+          image: "./public/viral-video-content-success.jpg",
         },
         {
           title: "Certificado en Inteligencia Artificial",
           role: "Alumno Certificado",
           description:
             "Curso completo de Inteligencia Artificial impartido por Anas Andaloussi, aprendiendo las últimas técnicas y aplicaciones de IA.",
-          image: "./public/images/images/ai-certification.jpg",
+          image: "./public/images/ai-certification.jpg",
         },
         {
           title: "Formación en Creación de Contenido",
           role: "Alumno Certificado",
           description:
             "Formación especializada en creación de contenido para redes sociales impartida por Guille Collado, dominando estrategias de engagement.",
-          image: "./public/images/images/content-creation-training.jpg",
+          image: "./public/images/content-creation-training.jpg",
         },
       ],
     },
@@ -226,13 +226,13 @@ const translations = {
           role: "Content Creator",
           description:
             "Multiple videos with over 2 million views each, reaching massive audiences and generating high engagement.",
-          image: "./public/images/viral-video-content-success.jpg",
+          image: "./public/viral-video-content-success.jpg",
         },
         {
           title: "AI Certification",
           role: "Certified Student",
           description: "Completed AI course by Anas Andaloussi, learning the latest techniques and applications of AI.",
-          image: "./public/images/images/ai-certification.jpg",
+          image: "./public/images/ai-certification.jpg",
         },
         {
           title: "Content Creation Training",
