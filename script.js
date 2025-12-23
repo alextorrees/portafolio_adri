@@ -85,7 +85,7 @@ const translations = {
           description:
             "Mi proyecto más personal: una cuenta de Instagram enfocada en reels que ha crecido orgánicamente hasta alcanzar 5,000 seguidores. Este proyecto me ha permitido experimentar con estrategias de contenido, entender algoritmos y crear una comunidad auténtica. Cada día aprendo algo nuevo sobre storytelling visual, engagement y construcción de marca personal.",
           cta: "Ver perfil de Instagram",
-          image: "images/profile-adria.png",
+          image: "./public/images/profile-adria.png",
         },
       ],
     },
