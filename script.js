@@ -97,21 +97,21 @@ const translations = {
           role: "Creador de Contenido",
           description:
             "Varios vídeos con más de 2 millones de reproducciones cada uno, alcanzando audiencias masivas y generando alto engagement.",
-          image: "viral-video-content-success.jpg",
+          image: "./public/images/viral-video-content-success.jpg",
         },
         {
           title: "Certificado en Inteligencia Artificial",
           role: "Alumno Certificado",
           description:
             "Curso completo de Inteligencia Artificial impartido por Anas Andaloussi, aprendiendo las últimas técnicas y aplicaciones de IA.",
-          image: "images/ai-certification.jpg",
+          image: "./public/images/images/ai-certification.jpg",
         },
         {
           title: "Formación en Creación de Contenido",
           role: "Alumno Certificado",
           description:
             "Formación especializada en creación de contenido para redes sociales impartida por Guille Collado, dominando estrategias de engagement.",
-          image: "images/content-creation-training.jpg",
+          image: "./public/images/images/content-creation-training.jpg",
         },
       ],
     },
@@ -214,7 +214,7 @@ const translations = {
           description:
             "My most personal project: an Instagram account focused on reels that has grown organically to reach 5,000 followers. This project has allowed me to experiment with content strategies, understand algorithms, and create an authentic community. Every day I learn something new about visual storytelling, engagement, and personal brand building.",
           cta: "View Instagram profile",
-          image: "images/profile-adria.png",
+          image: "./public/images/profile-adria.png",
         },
       ],
     },
@@ -226,20 +226,20 @@ const translations = {
           role: "Content Creator",
           description:
             "Multiple videos with over 2 million views each, reaching massive audiences and generating high engagement.",
-          image: "viral-video-content-success.jpg",
+          image: "./public/images/viral-video-content-success.jpg",
         },
         {
           title: "AI Certification",
           role: "Certified Student",
           description: "Completed AI course by Anas Andaloussi, learning the latest techniques and applications of AI.",
-          image: "images/ai-certification.jpg",
+          image: "./public/images/images/ai-certification.jpg",
         },
         {
           title: "Content Creation Training",
           role: "Certified Student",
           description:
             "Specialized training in social media content creation by Guille Collado, mastering engagement strategies.",
-          image: "images/content-creation-training.jpg",
+          image: "./public/images/content-creation-training.jpg",
         },
       ],
     },
